@@ -1,9 +1,9 @@
 # Fusion Kai / 缝合楷
-利用[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)[「芫荽」](https://github.com/ButTaiwan/iansui)[「Klee One」](https://github.com/fontworks-fonts/Klee)等字体相互合并制成以各地字形为主的 Klee One 衍生字体。
+将[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)[「芫荽」](https://github.com/ButTaiwan/iansui)[「Klee One」](https://github.com/fontworks-fonts/Klee)等字体相互合并制成以各地字形为主的 Klee One 衍生字体。
 
 字体名称灵感来源于[「缝合怪像素字体」](https://github.com/TakWolf/fusion-pixel-font)。
 
-采用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。
+利用 [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 合并。
 
 ## 包含字体
 - **缝合楷 G**：中国大陆规范字形优先，由「霞鹜文楷 GB」「芫荽」「霞鹜文楷 Lite」依次合并而成；

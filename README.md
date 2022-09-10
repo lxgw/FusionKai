@@ -6,3 +6,4 @@
 - **缝合楷 T**：以台湾地区教育标准字形为主，由「芫荽」「霞鹜文楷 GB」「霞鹜文楷 TC」依次合并而成；
 - **缝合楷 J**：以日本标准字形为主，由「Klee One」「霞鹜文楷 TC」依次合并而成。
 
+![image](https://user-images.githubusercontent.com/51902309/189492198-1a5b579e-4cc9-4f4c-9f0b-cf069d813b3a.png)

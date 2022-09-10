@@ -1,8 +1,9 @@
 Copyright 2022 LXGW (https://github.com/lxgw/FusionKai), With Reserved Font Name "Fusion Kai" and "缝合楷".
+Copyright (c) 2022, But Ko (https://github.com/ButTaiwan/iansui), With Reserved Font Name "iansui" and "芫荽".
 Copyright 2022 LXGW (https://github.com/lxgw/LxgwWenkaiGB)
 Copyright 2021 LXGW (https://github.com/lxgw/LxgwWenKai)
 Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
-Copyright (c) 2022, But Ko (https://github.com/ButTaiwan/iansui), With Reserved Font Name "iansui" and "芫荽".
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL

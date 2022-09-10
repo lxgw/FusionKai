@@ -39,7 +39,7 @@
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
 ## 其他项目
-- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [GB](https://github.com/lxgw/LxgwWenKaiGB)
+- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形/TC](https://github.com/lxgw/LxgwWenKaiTC) | [国标简体/GB](https://github.com/lxgw/LxgwWenKaiGB)
 - [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
 - [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)

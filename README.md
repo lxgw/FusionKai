@@ -16,6 +16,7 @@
 
 点击 Code -> Download Zip 下载字体压缩文件。
 
+或者进入 [Releases](https://github.com/lxgw/FusionKai/releases) 页面下载。Release 版本号为「Klee One」「芫荽」「霞鹜文楷 GB」三个字体版本号的总和。
 ## 授权信息
 
 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。

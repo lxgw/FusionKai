@@ -18,7 +18,7 @@
 
 点击 Code -> Download Zip 下载字体压缩文件。
 
-或者进入 [Releases](https://github.com/lxgw/FusionKai/releases) 页面下载。Release 版本号为「霞鹜文楷 Lite」「霞鹜文楷 GB」「芫荽」三款字体版本号的总和（Klee One 版本号不再计入，三位副版本号后的小版本号不计入）。
+或者进入 [Releases](https://github.com/lxgw/FusionKai/releases) 页面下载。Release 版本号为「霞鹜文楷 GB」「芫荽」「霞鹜文楷 Lite」三款字体版本号的总和（Klee One 版本号不再计入，三位副版本号后的小版本号不计入）。
 
 ## 授权信息
 
